@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Monica
-### **Aspiring AI Engineer · Go & Python Learner · Student at LEEF Centre**
+### **Aspiring AI Engineer · Go & Python Learner**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Monica%20Godwin&fontSize=52&fontAlignY=38&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=twinkling&desc=Learning%20in%20public%20%7C%20Building%20toward%20AI%20Engineering&descAlignY=60&descSize=18" alt="Header banner" width="100%"/>
 
@@ -74,6 +74,20 @@ func main() {
 - 🔄 Next project phases: table-driven tests → custom error types → middleware → persistence behind a `Store` interface
 - 🔄 Python fundamentals through a 5-phase AI engineering curriculum
 - 🔄 Regular LeetCode practice
+
+---
+
+## 🐍 AUTOMATED CONTRIBUTION GRAPH (SNAKE ANIMATION)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monicagodwin/monicagodwin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monicagodwin/monicagodwin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/monicagodwin/monicagodwin/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <br/>
+  <sub><i>🔄 Auto-generated every 6 hours via GitHub Actions workflow</i></sub>
+</div>
 
 ---
 
