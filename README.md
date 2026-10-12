@@ -110,7 +110,7 @@ func main() {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=monicagodwin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=monicagodwin&theme=tokyonight&hide_border=true&border_radius=10&locale=en" alt="GitHub Streak"/>
 
 </div>
 
